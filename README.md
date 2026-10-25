@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://aibdo0.github.io/icon-512.png" width="120" alt="AQ logo"/>
+
 # 👋 Hi, I'm Abdelrahman | أهلًا، أنا عبدالرحمن
 
 ### Aspiring Network Engineer • Linux • Cybersecurity
